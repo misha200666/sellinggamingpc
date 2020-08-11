@@ -1,0 +1,95 @@
+.red{
+  background: red;
+  font-size: 40p;
+  a
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+
+
+
+
+body {
+  background: lightblue
+  
+}
+.btn-red{
+  color:red
+}
+
+.btn-blue {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.btn-blue:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.btn-blue:active {
+	position:relative;
+	top:1px;
+}
+
+.btn-orange {
+	box-shadow:inset 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+}
+.btn-orange:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.btn-orange:active {
+	position:relative;
+	top:1px;
+}
+
+
+  .header {
+    background-image: url("https://engineering.buffalo.edu/content/engineering/computer-science-engineering/undergraduate/degrees-and-programs/ba-in-computer-science/_jcr_content/par/image.img.original.png/1560278866579.png");
+    color: red;
+    text-align: right;
+    padding: 30px;
+    margin-bottom: 15px;
+}
+.btn-blue-un {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #8cadb9 5%, #394246 100%);
+	background-color:#3c4d53;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:default;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
